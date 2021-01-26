@@ -1,0 +1,2 @@
+# SOC-InventoryManagement
+SOC Project
